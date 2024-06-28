@@ -1,4 +1,4 @@
-# ISBNBarcodeReader-Writer
+# ISBNBarcodeReader-Aggregator
 
 You don't want to use an app or website on your phone to look up ISBNs... and you've taken a bunch of photos of the barcodes on all your unneeded books? Great, you'll need them for this!
 
