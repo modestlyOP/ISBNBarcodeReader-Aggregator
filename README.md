@@ -6,10 +6,10 @@ This tool will use computer vision to read all those barcodes, decode them to IS
 
 
 ## Dependencies
-Recommended Python 3.11+, as well as opencv and pyzbar.
+Recommended Python 3.11+, as well as opencv, pyzbar, and requests. You can install them all at once with ``pip install opencv-python pyzbar requests``.
 
 
 ## Running
-Simply put all your barcode photos into the ``barcodes`` folder, and then run the ``iterateImages.py`` file in a terminal.
-After a completed run, you will find a newly-written csv file in the same folder the script was run in. 
+Simply put all your barcode photos into the ``barcodes`` folder, and then run the ``iterateImages.py`` file in a terminal. You can also just double-click that file from Windows Explorer if you don't like typing...
+After a completed run, you will find a newly-written csv file in the same folder the aforementioned .py script was run in. 
 
